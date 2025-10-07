@@ -40,7 +40,7 @@ Inclui botões de **Iniciar**, **Pausar** e **Reiniciar** o jogo.
 1. **Baixe ou clone o repositório:**
 
    ```bash
-   git clone https://github.com/igortriveloni86/projeto_snake.git
+   git clone https://github.com/igortriveloni86/projeto_snake
    ```
 
 2. **Abra o arquivo `index.html`** no seu navegador (basta dar dois cliques).
